@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as r,f as _}from"./app.3547d211.js";var c="/images/cherry_tree.gif";const s={},o=_("img",{src:c,alt:"\u56FE\u7247"},null,-1),a=[o];function n(i,l){return t(),r("p",null,a)}var m=e(s,[["render",n],["__file","index.html.vue"]]);export{m as default};
